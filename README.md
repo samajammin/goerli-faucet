@@ -39,6 +39,8 @@ You will have a JSON-RPC endpoint running on 127.0.0.1:8000 by default and a gRP
 
 ## Running the Example Angular Application
 
+Update `catpchaSiteKey` in environment.ts
+
 ```
 cd web
 npm install
