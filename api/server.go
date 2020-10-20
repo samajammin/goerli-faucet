@@ -26,7 +26,7 @@ import (
 const (
 	ipLimit          = 5 // 5 IP addresses per goerli address allowed.
 	txGasLimit       = 40000
-	fundingAmountWei = "32500000000000000000" // 32.5 ETH in Wei.
+	fundingAmountWei = "2000000000000000000" // 2 ETH in Wei.
 )
 
 var (
